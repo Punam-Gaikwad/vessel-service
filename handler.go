@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	pb "github.com/Punam-Gaikwad/microservices/vessel-service/proto/vessel"
+	pb "github.com/Punam-Gaikwad/vessel-service/proto/vessel"
 )
 
 type handler struct {

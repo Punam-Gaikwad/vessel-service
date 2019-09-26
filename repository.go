@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	pb "github.com/Punam-Gaikwad/microservices/vessel-service/proto/vessel"
+	pb "github.com/Punam-Gaikwad/vessel-service/proto/vessel"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 )

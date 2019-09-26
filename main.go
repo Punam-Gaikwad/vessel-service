@@ -5,7 +5,7 @@ import (
 	"net"
 	"os"
 
-	pb "github.com/Punam-Gaikwad/microservices/vessel-service/proto/vessel"
+	pb "github.com/Punam-Gaikwad/vessel-service/proto/vessel"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
