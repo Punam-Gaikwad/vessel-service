@@ -13,7 +13,7 @@ import (
 
 const (
 	port        = ":50052"
-	defaultHost = "mongodb://localhost:27017"
+	defaultHost = "mongodb://datastore:27017/?ssl=false"
 )
 
 func createDummyVesselData(repo Repository) {
